@@ -1,4 +1,4 @@
-# Credit Card Fraud Recognition through Autoencoders and Random Forests
+# Credit Card Fraud Recognition Through Autoencoders and Random Forests
 This was my capston project for the Machine Learning Engineer Nanodegree Program at Udacity. If you are interested, you can read both the `proposal.pdf` and `report.pdf` that explain in more detail the project.
 
 ## Project Overview
