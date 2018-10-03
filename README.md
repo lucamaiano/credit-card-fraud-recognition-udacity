@@ -19,5 +19,5 @@ The aim of this project was to measure the results of an autoencoder with a most
 You can execute the code following thise steps:
 1. Open the `AutoencodersCreditCardFraudsDetection.ipynb`;
 2. Install all the libraries that are imported in the first block of code;
-3. Download the dataset (https://www.kaggle.com/mlg-ulb/creditcardfraud) and copy the csv file in the same folder of the project;
+3. Download the dataset (https://www.kaggle.com/mlg-ulb/creditcardfraud) and copy the csv file in a folder named `data` in the same folder of the project;
 4. Run each block.
